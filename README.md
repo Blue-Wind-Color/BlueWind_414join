@@ -22,4 +22,6 @@
 
 在414社团，我也希望能够得到团队合作制作游戏的机会，希望能得到一些大佬的经验分享、专业课程等能够精进自己的机会
 # 喜欢的图片
-![Klee](BlueWind_414join/Klee.jpg"Klee")
+![KLee](https://i0.hdslb.com/bfs/new_dyn/2ba6d1776f9ff2a428ef4ac7c8f8da9026403323.jpg@1052w_!web-dynamic.avif "Klee")
+
+
