@@ -24,7 +24,6 @@
 # 喜欢的图片
 ![KLee](https://i0.hdslb.com/bfs/new_dyn/2ba6d1776f9ff2a428ef4ac7c8f8da9026403323.jpg@1052w_!web-dynamic.avif "Klee")
 # 自己建模的渲染图  
-## 设计思路
 ![宇宙火车站](http://m.qpic.cn/psc?/V12U5ZxG3uimv3/TmEUgtj9EK6.7V8ajmQrEOqsVCedk3Ztz78d8p96KGjz5sQg4I7meyVsrF.QHiIh8nHhlIlNEzExF*8Xi6tboVC13h2RaPOf7e82C0XC5.4!/mnull&bo=gAewBAAKQAYDB10!&rf=photolist&t=5 "宇宙火车站")  
 这个模型是我初中时我们班打算做自己的网站时做的，当时我被分到主页组，我们的网站名字叫**宇宙火车站**，于是我设计了以下这个排版，我用星空表示宇宙，同时参考了火车站形式和空间站的科幻感，将一部分内容的入口用传送门，全息显示屏来表示，最终做出了这一版设计  
 ![网站主页](http://m.qpic.cn/psc?/V12U5ZxG3uimv3/TmEUgtj9EK6.7V8ajmQrEKv8wi2xju5WLrSVum59vWKvKAsp*F2AZGc8PampK4kwIGddwzxAqnR7FrFSN5wREiJh.3WKOb4pJRYqa7UA8EA!/mnull&bo=gAc4BIAHOAQDByI!&rf=photolist&t=5 "网站主页")  
