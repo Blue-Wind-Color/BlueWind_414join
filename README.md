@@ -34,5 +34,5 @@
 而这，也是那些**残垣断壁**的一部分
 ### 二编  
 这两天重新对模型进行了一些修改，调整了一下材质，试着做了一个全息显示屏，但是由于用的是C4D2024，oc渲染器还未破解，所以没能做出全息材质，于是只好用玻璃替代，效果实在有点。。。  
-![宇宙火车站二编](http://m.qpic.cn/psc?/V12U5ZxG3uimv3/TmEUgtj9EK6.7V8ajmQrEP8WL7.isYOHZjVpq7KRg9QAwtqMilA8BNWqqGTrUTUshPBYrZ56h1.X.F*aSJmthFNC9wE4sv.GPQxIH6Nf1RE!/mnull&bo=wAY4BAAAAAABB9o!&rf=photolist&t=5 "宇宙火车站二编")  
-
+![宇宙火车站二编](http://m.qpic.cn/psc?/V12U5ZxG3uimv3/TmEUgtj9EK6.7V8ajmQrEP8WL7.isYOHZjVpq7KRg9QAwtqMilA8BNWqqGTrUTUshPBYrZ56h1.X.F*aSJmthFNC9wE4sv.GPQxIH6Nf1RE!/mnull&bo=wAY4BAAAAAABB9o!&rf=photolist&t=5 "宇宙火车站二编")    
+也尝试了给列车加点特效，更有科技感一点，但是没能成功，全息屏旁边那两个原本是打算做成悬浮装置，加一点喷出的火焰的，但是试了几种B站上的方法，也没能有想要的效果，最终只能做成这样了
